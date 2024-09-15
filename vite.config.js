@@ -7,4 +7,5 @@ export default defineConfig({
   build: {
     sourcemap: true,
   },
+  base: "/bc_react_73_anna-vasylenko/"
 });
