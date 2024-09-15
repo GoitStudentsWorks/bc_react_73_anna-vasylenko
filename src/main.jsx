@@ -13,7 +13,7 @@ createRoot(document.getElementById("root")).render(
   <StrictMode>
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}></PersistGate>
-      <BrowserRouter>
+      <BrowserRouter basename='/bc_react_73_anna-vasylenko'>
         <App />
       </BrowserRouter>
     </Provider>
