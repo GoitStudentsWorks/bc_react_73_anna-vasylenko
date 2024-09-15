@@ -1,0 +1,1 @@
+{"version":3,"file":"CurrencyTab-lUQl0mIC.js","sources":["../../src/pages/CurrencyTab/CurrencyTab.jsx"],"sourcesContent":["import Currency from \"../../components/Currency/Currency\";\n\nconst CurrencyTab = () => {\n  return <Currency />;\n};\n\nexport default CurrencyTab;\n"],"names":["CurrencyTab","Currency"],"mappings":"+GAEA,MAAMA,EAAc,UACVC,EAAS,CAAA,CAAA"}
